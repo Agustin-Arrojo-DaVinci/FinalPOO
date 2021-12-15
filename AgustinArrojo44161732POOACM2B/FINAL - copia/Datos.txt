@@ -1,0 +1,7 @@
+Nombre: Agustín
+Apellido: Arrojo
+DNI: 44161732
+Materia: Programacion Orientada a Objetos
+Comisión: ACM2B
+Turno: Mañana
+Profesor: Abelardo Jose Lugo
